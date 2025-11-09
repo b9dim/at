@@ -1,3 +1,4 @@
+
 {
   "name": "at",
   "private": true,
@@ -5,7 +6,8 @@
   "scripts": {
     "dev": "next dev -p 3000",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "lint": "echo \"no lint setup\""
   },
   "dependencies": {
     "framer-motion": "^11.0.0",
